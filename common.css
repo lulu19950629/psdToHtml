@@ -1,0 +1,45 @@
+.public-header{
+    height: 108px;
+    background-color: #fff;
+}
+.public-header .header-logo{
+    width: 178px;
+    height: 54px;
+    background: url("../imagines/index-header-logo.png")no-repeat;
+    float: left;
+    margin-top: 38px;
+}
+.public-header .header-nav{
+    float: right;
+}
+.header-nav .nav-subject{
+    float: left;
+    margin-top: 46px;
+    margin-left: 50px;
+    font-size: 16px;
+    color: #3b3b3b;
+}
+.public-footer{
+    height: 312px;
+    background-color: #3b3b3b;
+}
+.public-footer .footer-col{
+    width: 200px;
+    height: 214px;
+    margin-left: 60px;
+    margin-top: 98px;
+    font-size: 16px;
+    color: #fff;
+    float: left;
+}
+.public-footer .footer-col a{
+    font-size: 16px;
+    color: #fff;
+}
+.footer-col .footer-logo{
+    width: 180px;
+    height: 54px;
+    margin-top: -10px;
+    background: url("../imagines/index-footer-logo.png")no-repeat;
+    float: right;
+}

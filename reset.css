@@ -1,0 +1,17 @@
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}
+body{font-size:12px;}
+img{border:none;}
+li{list-style:none;}
+input,select,textarea{outline:none;border:none;}
+textarea{resize:none;}
+a{text-decoration:none;}
+.clear{clear: both;}
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix{zoom: 1;}
+a{color: #333;hide-focus: expression( this.hideFocus=true );outline: none;}
+a:hover{color: #333;text-decoration:underline;}
+.public-container{
+    margin: 0 auto;
+    width: 1086px;
+    position: relative;
+}
